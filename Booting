@@ -1,0 +1,8 @@
+*** SIGUSR2 not implemented, signal based restart unavailable!
+*** SIGUSR1 not implemented, signal based restart unavailable!
+*** SIGHUP not implemented, signal based logs reopening unavailable!
+Puma starting in single mode...
+* Version 4.3.1 (ruby 2.5.7-p206), codename: Mysterious Traveller
+* Min threads: 5, max threads: 5
+* Environment: development
+! Unable to load application: Bundler::GemNotFound: Could not find gem 'pg x86-mingw32' in any of the gem sources listed in your Gemfile.
